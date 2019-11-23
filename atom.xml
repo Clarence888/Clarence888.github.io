@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://clarence888.github.io/</id>
     <title>小二的CodingLife</title>
-    <updated>2019-11-23T08:23:23.084Z</updated>
+    <updated>2019-11-23T08:31:42.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://clarence888.github.io/"/>
     <link rel="self" href="https://clarence888.github.io//atom.xml"/>
@@ -10,28 +10,6 @@
     <logo>https://clarence888.github.io//images/avatar.png</logo>
     <icon>https://clarence888.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, 小二的CodingLife</rights>
-    <entry>
-        <title type="html"><![CDATA[关于]]></title>
-        <id>https://clarence888.github.io//post/about</id>
-        <link href="https://clarence888.github.io//post/about">
-        </link>
-        <updated>2019-01-25T11:09:48.000Z</updated>
-        <content type="html"><![CDATA[<!-- more -->
-<blockquote>
-<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
-</blockquote>
-<h2 id="关于本站">🏠 关于本站</h2>
-<p>初次见面，多多包涵。<br>
-一个php程序员的爬坡之路。</p>
-<h2 id="博主是谁">👨‍💻 博主是谁</h2>
-<p>不想当歌手的程序员不是好作家。</p>
-<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
-<p>吃饭 睡觉 编程 美剧 综艺 脑袋疼</p>
-<h2 id="联系我呀">📬 联系我呀</h2>
-<p>微博抖音ins 微信qq非死不可<br>
-评论或者邮箱联系吧亲。</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://clarence888.github.io//post/hello-gridea</id>
