@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://clarence888.github.io/</id>
     <title>小二的CodingLife</title>
-    <updated>2019-11-23T08:36:51.603Z</updated>
+    <updated>2019-11-24T05:26:38.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://clarence888.github.io/"/>
     <link rel="self" href="https://clarence888.github.io//atom.xml"/>
@@ -10,6 +10,55 @@
     <logo>https://clarence888.github.io//images/avatar.png</logo>
     <icon>https://clarence888.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, 小二的CodingLife</rights>
+    <entry>
+        <title type="html"><![CDATA[php程序员mac开发利器]]></title>
+        <id>https://clarence888.github.io//post/php-cheng-xu-yuan-mac-kai-fa-li-qi</id>
+        <link href="https://clarence888.github.io//post/php-cheng-xu-yuan-mac-kai-fa-li-qi">
+        </link>
+        <updated>2019-11-24T05:24:47.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>gdd编程工具</strong><br>
+shadowsocks 关键字：科学上网、搬瓦工</p>
+<p>海外vps自建：</p>
+<p>基本操作：登录vps</p>
+<p>安装ss服务器端<br>
+sudo -i<br>
+wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-all.sh<br>
+chmod +x shadowsocks-all.sh<br>
+./shadowsocks-all.sh 2&gt;&amp;1 | tee shadowsocks-all.log</p>
+<p><strong>高级操作：</strong><br>
+加速：开启bbr<br>
+使用root用户登录，运行以下命令：<br>
+wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh<br>
+chmod +x bbr.sh<br>
+./bbr.sh</p>
+<p><strong>编辑器和Terminal</strong><br>
+终端： iTerm2 + zsh + oh-my-zsh 、 xshell<br>
+编辑器：PHPStorm（推荐） 、vscode（常用）、sublime（批量处理常见文本等）</p>
+<p><strong>开发辅助</strong><br>
+SourceTree，git 辅助，可视化利器<br>
+postman 请求模拟<br>
+Charles，抓包用，支持 https<br>
+Google Chrome  不解释<br>
+snipaste mac win多终端支持。放弃使用各社交软件截图吧。<br>
+Sequel Pro，MySQL 数据库管理<br>
+tableplus 数据库管理 mysql redis等<br>
+MongoHub，Mongo 数据库管理<br>
+SQLite Professional，SQLite 数据库管理</p>
+<p><strong>效率</strong><br>
+Alfred + Powerpack，应用启动、粘贴板管理<br>
+Thor，一键直达 告别切屏（强烈推荐）<br>
+滴答清单 自我任务管理，按需提醒。全平台<br>
+utools 生产力工具集<br>
+XMind 脑图工具 <br>
+幕布 文字编辑 自动生成流程图<br>
+notion 模块类笔记工具<br>
+typora markdown 代码等<br>
+Bear 写作工具 轻便<br>
+IINA，视频播放 可倍速</p>
+<p><strong>保护视力人人有责</strong><br>
+f.lux，护眼调色</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://clarence888.github.io//post/hello-gridea</id>
