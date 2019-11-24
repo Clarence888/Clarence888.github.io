@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://clarence888.github.io</id>
     <title>小二的CodingLife</title>
-    <updated>2019-11-24T13:27:59.254Z</updated>
+    <updated>2019-11-24T16:41:20.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://clarence888.github.io"/>
     <link rel="self" href="https://clarence888.github.io/atom.xml"/>
@@ -17,8 +17,8 @@
         </link>
         <updated>2019-11-24T05:24:47.000Z</updated>
         <content type="html"><![CDATA[<p><strong>gdd编程工具</strong></p>
-<p>海外vps自建：</p>
-<p>基本操作：登录vps</p>
+<p>海外vps<br>
+基本操作：登录vps</p>
 <pre><code>安装ss服务器端
 sudo -i
 wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-all.sh
