@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://clarence888.github.io</id>
     <title>小二的CodingLife</title>
-    <updated>2019-12-30T12:14:08.169Z</updated>
+    <updated>2019-12-31T05:59:54.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://clarence888.github.io"/>
     <link rel="self" href="https://clarence888.github.io/atom.xml"/>
@@ -17,12 +17,12 @@
         </link>
         <updated>2019-12-30T12:11:58.000Z</updated>
         <content type="html"><![CDATA[<p>1.打开浏览器，访问www.baidu.com 直到页面展示。请详解这中间发生了什么？<br>
-2.nginx和fpm是怎么交互的？fpm是怎么运行的？<br>
+2.http协议你了解多少？nginx和fpm是怎么交互的？fpm是怎么运行的？<br>
 3.php的垃圾回收是怎么做的？<br>
 4.mysql的联合索引是什么？调整sql语句中参数的顺序会影响命中索引吗？一次sql查询可以命中几个索引？<br>
 5.慢查询发生解决思路是什么？explain对应的那些字段 都是什么意思？<br>
 6.linux常用命令知道哪些？linux中怎么看父进程和子进程？怎么后台执行一个php脚本？为什么可以后台执行？<br>
-7.设计模式知道哪些？应用场景有哪些？（除工厂和单例外 3种以上）<br>
+7.设计模式知道哪些？常见的有哪些？实际应用场景有哪些？（除工厂和单例外 3种以上）<br>
 8.知道哪些php框架？简单说明laravel和tp的区别。 请问tp的路由是怎么实现的？<br>
 9.依赖注入是什么意思？在框架中哪里有体现？<br>
 10.swoole是干嘛的？和fpm模式的php有什么不同？协程是什么东西？<br>
