@@ -2,14 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://clarence888.github.io</id>
     <title>小二的CodingLife</title>
-    <updated>2019-12-31T05:59:54.528Z</updated>
+    <updated>2020-01-01T12:35:47.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://clarence888.github.io"/>
     <link rel="self" href="https://clarence888.github.io/atom.xml"/>
     <subtitle>大家好，我叫不紧张。</subtitle>
     <logo>https://clarence888.github.io/images/avatar.png</logo>
     <icon>https://clarence888.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, 小二的CodingLife</rights>
+    <rights>All rights reserved 2020, 小二的CodingLife</rights>
+    <entry>
+        <title type="html"><![CDATA[2020年度计划]]></title>
+        <id>https://clarence888.github.io/post/2020-nian-du-ji-hua</id>
+        <link href="https://clarence888.github.io/post/2020-nian-du-ji-hua">
+        </link>
+        <updated>2020-01-01T12:31:48.000Z</updated>
+        <content type="html"><![CDATA[<p>该计划需要在1.15日前完成。</p>
+<p>个人：减肥、锻炼、读书、写作<br>
+生活：房子、打卡北京城计划、要娃？...<br>
+工作：保底、涨薪、冲刺、第二职业、技术学习<br>
+理想：？</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2019-2020PHP面试常见题目]]></title>
         <id>https://clarence888.github.io/post/2019-2020php-mian-shi-chang-jian-ti-mu</id>
