@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://clarence888.github.io</id>
     <title>小二的CodingLife</title>
-    <updated>2020-01-06T09:51:04.034Z</updated>
+    <updated>2020-01-12T01:55:10.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://clarence888.github.io"/>
     <link rel="self" href="https://clarence888.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://clarence888.github.io/images/avatar.png</logo>
     <icon>https://clarence888.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 小二的CodingLife</rights>
+    <entry>
+        <title type="html"><![CDATA[资源+网站收藏]]></title>
+        <id>https://clarence888.github.io/post/zi-yuan-wang-zhan-shou-cang</id>
+        <link href="https://clarence888.github.io/post/zi-yuan-wang-zhan-shou-cang">
+        </link>
+        <updated>2020-01-12T01:54:30.000Z</updated>
+        <content type="html"><![CDATA[<p>IT 书籍下载 https://www.itpanda.net/</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020年度计划]]></title>
         <id>https://clarence888.github.io/post/2020-nian-du-ji-hua</id>
