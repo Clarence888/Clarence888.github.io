@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://clarence888.github.io</id>
     <title>小二的CodingLife</title>
-    <updated>2020-01-12T01:55:10.926Z</updated>
+    <updated>2020-02-07T05:47:46.894Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://clarence888.github.io"/>
     <link rel="self" href="https://clarence888.github.io/atom.xml"/>
@@ -10,6 +10,40 @@
     <logo>https://clarence888.github.io/images/avatar.png</logo>
     <icon>https://clarence888.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 小二的CodingLife</rights>
+    <entry>
+        <title type="html"><![CDATA[向李文亮医生致以敬意]]></title>
+        <id>https://clarence888.github.io/post/xiang-li-wen-liang-yi-sheng-zhi-yi-jing-yi</id>
+        <link href="https://clarence888.github.io/post/xiang-li-wen-liang-yi-sheng-zhi-yi-jing-yi">
+        </link>
+        <updated>2020-02-07T05:45:10.000Z</updated>
+        <content type="html"><![CDATA[<p>如果可以，我想对你说声抱歉<br>
+我忽略你眼里的忧郁<br>
+如果可以 我想给你我的青春<br>
+只为陪伴你受伤的灵魂<br>
+你曾像繁星闪烁<br>
+当你从浩瀚星空坠落<br>
+如同从未发生过<br>
+这世界不会在意你的微弱<br>
+<strong>可我知道从此后<br>
+这世界少了一份光亮</strong><br>
+多了些许的失落<br>
+消逝的星辰那是夜空的过错<br>
+如果可以 我愿付出我的所有<br>
+只为换取你失去的自由<br>
+你曾像繁星闪烁<br>
+当你从我的身边坠落<br>
+如同从未发生过<br>
+这世界不会在意你的脆弱<br>
+如此浩瀚的星空<br>
+容不下一颗小小星辰<br>
+熄灭真实的光亮<br>
+我知道你的脆弱是你的坚强<br>
+如果不能<br>
+让这一切触及心灵<br>
+别问这丧钟为谁而鸣</p>
+<p>《如果可以》是李健为电影《搜索》创作并演唱的歌曲，电影《搜索》**通过一个社会事事件，折射出各种人群的不同选择，借以呈现出大变革时代下的价值观。**继与陈凯歌导演合作《希夷大理》主题歌之后，此次再度携手，李健也将对现实的尖锐质疑和深刻反思写进歌曲，画面感十足的音乐与电影相得益彰。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[资源+网站收藏]]></title>
         <id>https://clarence888.github.io/post/zi-yuan-wang-zhan-shou-cang</id>
