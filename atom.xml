@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://clarence888.github.io</id>
     <title>小二的CodingLife</title>
-    <updated>2020-02-09T12:36:13.946Z</updated>
+    <updated>2020-02-11T04:34:10.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://clarence888.github.io"/>
     <link rel="self" href="https://clarence888.github.io/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2020, 小二的CodingLife</rights>
     <entry>
         <title type="html"><![CDATA[向李文亮医生致以敬意]]></title>
-        <id>https://clarence888.github.io/post/xiang-li-wen-liang-yi-sheng-zhi-yi-jing-yi</id>
-        <link href="https://clarence888.github.io/post/xiang-li-wen-liang-yi-sheng-zhi-yi-jing-yi">
+        <id>https://clarence888.github.io/xiang-li-wen-liang-yi-sheng-zhi-yi-jing-yi</id>
+        <link href="https://clarence888.github.io/xiang-li-wen-liang-yi-sheng-zhi-yi-jing-yi">
         </link>
         <updated>2020-02-07T05:45:10.000Z</updated>
         <content type="html"><![CDATA[<p>如果可以，我想对你说声抱歉<br>
@@ -46,8 +46,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[资源+网站收藏]]></title>
-        <id>https://clarence888.github.io/post/zi-yuan-wang-zhan-shou-cang</id>
-        <link href="https://clarence888.github.io/post/zi-yuan-wang-zhan-shou-cang">
+        <id>https://clarence888.github.io/zi-yuan-wang-zhan-shou-cang</id>
+        <link href="https://clarence888.github.io/zi-yuan-wang-zhan-shou-cang">
         </link>
         <updated>2020-01-12T01:54:30.000Z</updated>
         <content type="html"><![CDATA[<p>IT 书籍下载 https://www.itpanda.net/</p>
@@ -55,8 +55,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[2020年度计划]]></title>
-        <id>https://clarence888.github.io/post/2020-nian-du-ji-hua</id>
-        <link href="https://clarence888.github.io/post/2020-nian-du-ji-hua">
+        <id>https://clarence888.github.io/2020-nian-du-ji-hua</id>
+        <link href="https://clarence888.github.io/2020-nian-du-ji-hua">
         </link>
         <updated>2020-01-01T12:31:48.000Z</updated>
         <content type="html"><![CDATA[<p>该计划需要在1.15日前完成。</p>
@@ -68,8 +68,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[2019-2020PHP面试常见题目]]></title>
-        <id>https://clarence888.github.io/post/2019-2020php-mian-shi-chang-jian-ti-mu</id>
-        <link href="https://clarence888.github.io/post/2019-2020php-mian-shi-chang-jian-ti-mu">
+        <id>https://clarence888.github.io/2019-2020php-mian-shi-chang-jian-ti-mu</id>
+        <link href="https://clarence888.github.io/2019-2020php-mian-shi-chang-jian-ti-mu">
         </link>
         <updated>2019-12-30T12:11:58.000Z</updated>
         <content type="html"><![CDATA[<p>1.打开浏览器，访问www.baidu.com 直到页面展示。请详解这中间发生了什么？<br>
@@ -91,8 +91,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[go语言学习：1.安装go]]></title>
-        <id>https://clarence888.github.io/post/goinstall</id>
-        <link href="https://clarence888.github.io/post/goinstall">
+        <id>https://clarence888.github.io/goinstall</id>
+        <link href="https://clarence888.github.io/goinstall">
         </link>
         <updated>2019-11-25T14:44:47.000Z</updated>
         <summary type="html"><![CDATA[<p>学习go语言起步安装</p>
@@ -189,8 +189,8 @@ This is where most manually installed (ie. outside of your package manager) soft
     </entry>
     <entry>
         <title type="html"><![CDATA[php程序员mac开发利器]]></title>
-        <id>https://clarence888.github.io/post/devtools</id>
-        <link href="https://clarence888.github.io/post/devtools">
+        <id>https://clarence888.github.io/devtools</id>
+        <link href="https://clarence888.github.io/devtools">
         </link>
         <updated>2019-11-24T05:24:47.000Z</updated>
         <summary type="html"><![CDATA[<p>开发中常用的工具以及效率工具</p>
