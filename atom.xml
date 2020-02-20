@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://clarence888.github.io</id>
     <title>小二的CodingLife</title>
-    <updated>2020-02-20T03:54:22.147Z</updated>
+    <updated>2020-02-20T06:30:55.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://clarence888.github.io"/>
     <link rel="self" href="https://clarence888.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://clarence888.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 小二的CodingLife</rights>
     <entry>
-        <title type="html"><![CDATA[位，字节，兆？二进制，十进制，十六进制？机器数，真值，原码，补码，反码？【复习一下】]]></title>
+        <title type="html"><![CDATA[【复习】位，字节，兆？二进制，十进制，十六进制？机器数，真值，原码，补码，反码？]]></title>
         <id>https://clarence888.github.io/ji-qi-shu-zhen-zhi-yuan-ma-bu-ma-fan-ma-yi-qi-lai-fu-xi-yi-xia</id>
         <link href="https://clarence888.github.io/ji-qi-shu-zhen-zhi-yuan-ma-bu-ma-fan-ma-yi-qi-lai-fu-xi-yi-xia">
         </link>
