@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://clarence888.github.io</id>
+    <id>https://constgo.com</id>
     <title>小二的CodingLife</title>
-    <updated>2020-02-20T06:30:55.877Z</updated>
+    <updated>2020-02-20T06:51:48.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://clarence888.github.io"/>
-    <link rel="self" href="https://clarence888.github.io/atom.xml"/>
+    <link rel="alternate" href="https://constgo.com"/>
+    <link rel="self" href="https://constgo.com/atom.xml"/>
     <subtitle>大家好，我叫不紧张。</subtitle>
-    <logo>https://clarence888.github.io/images/avatar.png</logo>
-    <icon>https://clarence888.github.io/favicon.ico</icon>
+    <logo>https://constgo.com/images/avatar.png</logo>
+    <icon>https://constgo.com/favicon.ico</icon>
     <rights>All rights reserved 2020, 小二的CodingLife</rights>
     <entry>
         <title type="html"><![CDATA[【复习】位，字节，兆？二进制，十进制，十六进制？机器数，真值，原码，补码，反码？]]></title>
-        <id>https://clarence888.github.io/ji-qi-shu-zhen-zhi-yuan-ma-bu-ma-fan-ma-yi-qi-lai-fu-xi-yi-xia</id>
-        <link href="https://clarence888.github.io/ji-qi-shu-zhen-zhi-yuan-ma-bu-ma-fan-ma-yi-qi-lai-fu-xi-yi-xia">
+        <id>https://constgo.com/ji-qi-shu-zhen-zhi-yuan-ma-bu-ma-fan-ma-yi-qi-lai-fu-xi-yi-xia/</id>
+        <link href="https://constgo.com/ji-qi-shu-zhen-zhi-yuan-ma-bu-ma-fan-ma-yi-qi-lai-fu-xi-yi-xia/">
         </link>
         <updated>2020-02-19T12:22:56.000Z</updated>
         <content type="html"><![CDATA[<p><strong>位，字节，兆</strong></p>
@@ -36,7 +36,7 @@ Byte 是字节的英文写法。它的简写为大写字母 “B&quot;。</p>
 <p>另外很多表示存储单位的地方都把 B 写成 b，造成了大家认知的混乱。其实在存储单位计量中出现 b 的地方，它的意思仍然是 B，不要因为 bit 的缩写是 b 就被误导了，在存储计量中是不会用 比特，千比特 这种单位的。但是在网速计量中，b的真实意思就是指 比特 了，这个我们下面再说。</p>
 <p>5.存储单位换算<br>
 存储单位换算关系如下：<br>
-<img src="https://clarence888.github.io/post-images/1582170125225.png" alt="" loading="lazy"></p>
+<img src="https://constgo.com/post-images/1582170125225.png" alt="" loading="lazy"></p>
 <p>6.字符是可使用多种不同字符方案或代码页来表示的抽象实体。例如，Unicode UTF-16 编码将字符表示为 16 位整数序列，而 Unicode UTF-8 编码则将相同的字符表示为 8 位字节序列。公共语言运行库使用 Unicode UTF-16（Unicode 转换格式，16 位编码形式）表示字符。</p>
 <p>二.网速怎么算？<br>
 网络线路的计量单位，也就是我们通常说的 2M 宽带，10 M 宽带的单位，是 比特每秒（bits per second）。比特每秒 的缩写为 bps，意思是每秒接收的平均比特数。更大的单位是 千比特每秒（Kbps）或 兆比特每秒（Mbps）。2M宽带，意味着每秒平均可以接受 2Mb 的数据，也就是二百万左右比特的数据，在这里，小写 b 的意思就是比特了。</p>
@@ -287,8 +287,8 @@ PS：<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[向李文亮医生致以敬意]]></title>
-        <id>https://clarence888.github.io/xiang-li-wen-liang-yi-sheng-zhi-yi-jing-yi</id>
-        <link href="https://clarence888.github.io/xiang-li-wen-liang-yi-sheng-zhi-yi-jing-yi">
+        <id>https://constgo.com/xiang-li-wen-liang-yi-sheng-zhi-yi-jing-yi/</id>
+        <link href="https://constgo.com/xiang-li-wen-liang-yi-sheng-zhi-yi-jing-yi/">
         </link>
         <updated>2020-02-07T05:45:10.000Z</updated>
         <content type="html"><![CDATA[<p>如果可以，我想对你说声抱歉<br>
@@ -321,8 +321,8 @@ PS：<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[资源+网站收藏]]></title>
-        <id>https://clarence888.github.io/zi-yuan-wang-zhan-shou-cang</id>
-        <link href="https://clarence888.github.io/zi-yuan-wang-zhan-shou-cang">
+        <id>https://constgo.com/zi-yuan-wang-zhan-shou-cang/</id>
+        <link href="https://constgo.com/zi-yuan-wang-zhan-shou-cang/">
         </link>
         <updated>2020-01-12T01:54:30.000Z</updated>
         <content type="html"><![CDATA[<p>IT 书籍下载 https://www.itpanda.net/</p>
@@ -330,8 +330,8 @@ PS：<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[2020年度计划]]></title>
-        <id>https://clarence888.github.io/2020-nian-du-ji-hua</id>
-        <link href="https://clarence888.github.io/2020-nian-du-ji-hua">
+        <id>https://constgo.com/2020-nian-du-ji-hua/</id>
+        <link href="https://constgo.com/2020-nian-du-ji-hua/">
         </link>
         <updated>2020-01-01T12:31:48.000Z</updated>
         <content type="html"><![CDATA[<p>该计划需要在1.15日前完成。</p>
@@ -343,8 +343,8 @@ PS：<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[2019-2020PHP面试常见题目]]></title>
-        <id>https://clarence888.github.io/2019-2020php-mian-shi-chang-jian-ti-mu</id>
-        <link href="https://clarence888.github.io/2019-2020php-mian-shi-chang-jian-ti-mu">
+        <id>https://constgo.com/2019-2020php-mian-shi-chang-jian-ti-mu/</id>
+        <link href="https://constgo.com/2019-2020php-mian-shi-chang-jian-ti-mu/">
         </link>
         <updated>2019-12-30T12:11:58.000Z</updated>
         <content type="html"><![CDATA[<p>1.打开浏览器，访问www.baidu.com 直到页面展示。请详解这中间发生了什么？<br>
@@ -366,8 +366,8 @@ PS：<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[go语言学习：1.安装go]]></title>
-        <id>https://clarence888.github.io/goinstall</id>
-        <link href="https://clarence888.github.io/goinstall">
+        <id>https://constgo.com/goinstall/</id>
+        <link href="https://constgo.com/goinstall/">
         </link>
         <updated>2019-11-25T14:44:47.000Z</updated>
         <summary type="html"><![CDATA[<p>学习go语言起步安装</p>
@@ -464,8 +464,8 @@ This is where most manually installed (ie. outside of your package manager) soft
     </entry>
     <entry>
         <title type="html"><![CDATA[php程序员mac开发利器]]></title>
-        <id>https://clarence888.github.io/devtools</id>
-        <link href="https://clarence888.github.io/devtools">
+        <id>https://constgo.com/devtools/</id>
+        <link href="https://constgo.com/devtools/">
         </link>
         <updated>2019-11-24T05:24:47.000Z</updated>
         <summary type="html"><![CDATA[<p>开发中常用的工具以及效率工具</p>
