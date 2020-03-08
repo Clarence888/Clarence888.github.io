@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://constgo.com</id>
     <title>小二的CodingLife</title>
-    <updated>2020-03-08T02:53:34.192Z</updated>
+    <updated>2020-03-08T03:00:30.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://constgo.com"/>
     <link rel="self" href="https://constgo.com/atom.xml"/>
@@ -18,6 +18,7 @@
         <updated>2020-03-08T02:51:24.000Z</updated>
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://constgo.com/post-images/1583635993334.png" alt="" loading="lazy"></figure>
 <p>常使用软件备份</p>
+<p>备份</p>
 ]]></content>
     </entry>
     <entry>
