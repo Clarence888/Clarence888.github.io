@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://constgo.com</id>
     <title>小二的CodingLife</title>
-    <updated>2020-04-01T03:04:22.288Z</updated>
+    <updated>2020-04-19T04:22:08.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://constgo.com"/>
     <link rel="self" href="https://constgo.com/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://constgo.com/images/avatar.png</logo>
     <icon>https://constgo.com/favicon.ico</icon>
     <rights>All rights reserved 2020, 小二的CodingLife</rights>
+    <entry>
+        <title type="html"><![CDATA[新款air 2020 钉钉视频会议无法使用 临时安装包]]></title>
+        <id>https://constgo.com/xin-kuan-air-2020-ding-ding-shi-pin-hui-yi-wu-fa-shi-yong-lin-shi-an-zhuang-bao/</id>
+        <link href="https://constgo.com/xin-kuan-air-2020-ding-ding-shi-pin-hui-yi-wu-fa-shi-yong-lin-shi-an-zhuang-bao/">
+        </link>
+        <updated>2020-04-19T04:21:24.000Z</updated>
+        <content type="html"><![CDATA[<p>https://www.yuque.com/clarence888/gqkiqp/rhsidk</p>
+<p>来自钉钉mac反馈群</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[推荐一些架构方面的书]]></title>
         <id>https://constgo.com/tui-jian-yi-xie-jia-gou-fang-mian-de-shu/</id>
