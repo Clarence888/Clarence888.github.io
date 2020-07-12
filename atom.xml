@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://constgo.com</id>
     <title>小二的CodingLife</title>
-    <updated>2020-04-19T04:53:47.586Z</updated>
+    <updated>2020-07-12T10:15:18.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://constgo.com"/>
     <link rel="self" href="https://constgo.com/atom.xml"/>
@@ -335,40 +335,6 @@ PS：<br>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[向李文亮医生致以敬意]]></title>
-        <id>https://constgo.com/xiang-li-wen-liang-yi-sheng-zhi-yi-jing-yi/</id>
-        <link href="https://constgo.com/xiang-li-wen-liang-yi-sheng-zhi-yi-jing-yi/">
-        </link>
-        <updated>2020-02-07T05:45:10.000Z</updated>
-        <content type="html"><![CDATA[<p>如果可以，我想对你说声抱歉<br>
-我忽略你眼里的忧郁<br>
-如果可以 我想给你我的青春<br>
-只为陪伴你受伤的灵魂<br>
-你曾像繁星闪烁<br>
-当你从浩瀚星空坠落<br>
-如同从未发生过<br>
-这世界不会在意你的微弱<br>
-<strong>可我知道从此后<br>
-这世界少了一份光亮</strong><br>
-多了些许的失落<br>
-消逝的星辰那是夜空的过错<br>
-如果可以 我愿付出我的所有<br>
-只为换取你失去的自由<br>
-你曾像繁星闪烁<br>
-当你从我的身边坠落<br>
-如同从未发生过<br>
-这世界不会在意你的脆弱<br>
-如此浩瀚的星空<br>
-容不下一颗小小星辰<br>
-熄灭真实的光亮<br>
-我知道你的脆弱是你的坚强<br>
-如果不能<br>
-让这一切触及心灵<br>
-别问这丧钟为谁而鸣</p>
-<p>《如果可以》是李健为电影《搜索》创作并演唱的歌曲，电影《搜索》**通过一个社会事事件，折射出各种人群的不同选择，借以呈现出大变革时代下的价值观。**继与陈凯歌导演合作《希夷大理》主题歌之后，此次再度携手，李健也将对现实的尖锐质疑和深刻反思写进歌曲，画面感十足的音乐与电影相得益彰。</p>
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[资源+网站收藏]]></title>
         <id>https://constgo.com/zi-yuan-wang-zhan-shou-cang/</id>
         <link href="https://constgo.com/zi-yuan-wang-zhan-shou-cang/">
@@ -511,6 +477,61 @@ This is where most manually installed (ie. outside of your package manager) soft
 源码放哪里？<br>
 /usr/src：系统级的源码目录。<br>
 /usr/local/src：用户级的源码目录。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[php程序员mac开发利器]]></title>
+        <id>https://constgo.com/devtools/</id>
+        <link href="https://constgo.com/devtools/">
+        </link>
+        <updated>2019-11-24T05:24:47.000Z</updated>
+        <summary type="html"><![CDATA[<p>开发中常用的工具以及效率工具</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>开发中常用的工具以及效率工具</p>
+<!-- more -->
+<p><strong>gdd编程工具</strong></p>
+<p>海外vps<br>
+基本操作：登录vps</p>
+<pre><code>安装ss服务器端
+sudo -i
+wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-all.sh
+chmod +x shadowsocks-all.sh
+./shadowsocks-all.sh 2&gt;&amp;1 | tee shadowsocks-all.log
+
+</code></pre>
+<pre><code>**高级操作：**
+加速：开启bbr
+使用root用户登录，运行以下命令：
+wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh
+chmod +x bbr.sh
+./bbr.sh
+</code></pre>
+<p><strong>编辑器和Terminal</strong><br>
+终端： iTerm2 + zsh + oh-my-zsh 、 xshell<br>
+编辑器：PHPStorm（推荐） 、vscode（常用）、sublime（批量处理常见文本等）</p>
+<p><strong>开发辅助</strong><br>
+SourceTree，git 辅助，可视化利器<br>
+postman 请求模拟<br>
+Charles，抓包用，支持 https<br>
+Google Chrome  不解释<br>
+snipaste mac win多终端支持。放弃使用各社交软件截图吧。<br>
+Sequel Pro，MySQL 数据库管理<br>
+tableplus 数据库管理 mysql redis等<br>
+MongoHub，Mongo 数据库管理<br>
+SQLite Professional，SQLite 数据库管理</p>
+<p><strong>效率</strong><br>
+Alfred + Powerpack，应用启动、粘贴板管理<br>
+Thor，一键直达 告别切屏（强烈推荐）<br>
+滴答清单 自我任务管理，按需提醒。全平台<br>
+utools 生产力工具集<br>
+XMind 脑图工具 <br>
+幕布 文字编辑 自动生成流程图<br>
+notion 模块类笔记工具<br>
+typora markdown 代码等<br>
+Bear 写作工具 轻便<br>
+IINA，视频播放 可倍速</p>
+<p><strong>保护视力人人有责</strong><br>
+f.lux，护眼调色</p>
 ]]></content>
     </entry>
 </feed>
